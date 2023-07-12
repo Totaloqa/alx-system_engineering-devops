@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -n 10 iacta
+ -n 1 iacta
